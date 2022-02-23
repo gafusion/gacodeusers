@@ -1,2 +1,2 @@
 # gacodeusers
-GACODE user discussion
+GACODE user discussion forum
